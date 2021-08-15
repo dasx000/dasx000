@@ -1,7 +1,6 @@
 ### Hi! 👋 I'm Das.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce purus dolor, sodales eu fringilla vitae, rhoncus vel ipsum. Pellentesque orci dolor, tempus quis eros quis, fringilla varius ante. Vestibulum a nisl vel urna consectetur pellentesque. Ut hendrerit efficitur porttitor. Etiam lobortis iaculis pretium. Nullam quis tortor eu lectus bibendum efficitur. In id cursus nisi. Praesent in quam dolor. Donec laoreet purus sit amet ante suscipit luctus.
-
+Hallo nama saya Diky Adisaputra , saya mahasiswa di salah satu Universitas Negeri di Lampung.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
